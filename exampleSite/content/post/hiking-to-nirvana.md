@@ -3,7 +3,6 @@ author = "Tom Phillips"
 categories = []
 date = 2022-01-15T08:00:00Z
 description = "Nature at its best."
-draft = true
 image = "/images/erico-marcelino-91qhq3ggh9i-unsplash.jpg"
 tags = []
 title = "Hiking to Nirvana"
