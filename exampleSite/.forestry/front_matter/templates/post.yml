@@ -26,4 +26,5 @@ fields:
   name: tags
   label: tags
 pages:
+- exampleSite/content/post/return-of-the-negative-creeps.md
 - exampleSite/content/post/we-re-all-just-dust-in-the-wind-bro.md
