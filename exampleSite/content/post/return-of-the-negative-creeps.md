@@ -3,7 +3,7 @@ author = "Tom Phillips"
 categories = ["Creepy"]
 date = 2022-01-16T08:00:00Z
 description = "You thought they left...they did't."
-image = ""
+image = "/images/negative-creeps.jpg"
 tags = ["Creepy"]
 title = "Return of the negative creeps."
 
