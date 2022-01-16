@@ -3,7 +3,6 @@ author = "Tom Phillips"
 categories = []
 date = 2022-01-15T08:00:00Z
 description = "An excerpt from Ham on Rye"
-draft = true
 image = "/images/sean-driscoll-w0vkfbspxto-unsplash.jpg"
 tags = []
 title = "Welcome To The Jungle"
