@@ -35,7 +35,7 @@ author = "Themefisher"
 contact_form_action = "#"
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
 description = "A Blog For Thoughts"
-logo = "images/ponder-logo.png"
+logo = "images/ponder-logo2.png"
 search = true
 [params.cookies]
 enable = true
