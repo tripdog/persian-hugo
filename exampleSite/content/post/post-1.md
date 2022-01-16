@@ -1,5 +1,5 @@
 ---
-title: Building an interface between people and nature
+title: We saw her leaving, but nobody could stop her.
 date: 2020-05-12T12:14:34.000+06:00
 image: "/images/index.jpg"
 author: John Doe
