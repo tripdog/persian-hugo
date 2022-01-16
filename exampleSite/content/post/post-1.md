@@ -1,6 +1,6 @@
 ---
 title: Nobody could stop her from walking out the door.
-date: 2020-05-12T12:14:34.000+06:00
+date: 2022-01-29T08:00:00+00:00
 image: "/images/kristina-tripkovic-nwwubsw6ud4-unsplash.jpg"
 author: Tom Phillips
 description: This is meta description.
