@@ -1,10 +1,8 @@
 ---
 title: Tom
-image: ''
+image: "/images/0606.JPG"
 email: tom.d.flips@gmail.com
 social:
-- icon: ti-facebook
-  link: "#"
 - icon: ti-twitter-alt
   link: "#"
 - icon: ti-github
@@ -15,5 +13,4 @@ menu:
     weight: 3
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
-Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.
+Tom Phillips is a self-described GenX Elder Statesman, Dad, Jeeper, Hiker, Creative Pro, Freelance designer/Frontend Developer, Buddhist and imperfect Human.
