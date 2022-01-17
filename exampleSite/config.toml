@@ -33,7 +33,7 @@ home = ["HTML", "RSS", "json"]
 [params]
 author = "Themefisher"
 contact_form_action = "#"
-copyright = "Atomic"
+copyright = "<a href=\"https://www.atomicpx.com\">atomic</a>"
 description = "A Blog For Thoughts"
 logo = "images/ponder-logo3.png"
 search = true
