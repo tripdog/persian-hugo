@@ -1,7 +1,7 @@
 ---
 title: Nobody could stop her from walking out the door.
 date: 2022-01-15T08:00:00+00:00
-image: "/images/kristina-tripkovic-nwwubsw6ud4-unsplash.jpg"
+image: "/images/window-rs.jpg"
 author: Tom Phillips
 description: She didn't have to.
 categories:
