@@ -4,7 +4,7 @@ googleAnalytics = ""
 languageCode = "en-us"
 languageName = "En"
 paginate = "5"
-theme = "persian-ponder"
+theme = "persian-hugo"
 title = "Ponder"
 [markup.goldmark.renderer]
 unsafe = true
