@@ -4,10 +4,18 @@ image: images/img_0606.JPG
 description: This is an experimental Hugo build.
 
 ---
-\##BUILD
+### BUILD
 
-This is an experimental \[HUGO\]([https://gohugo.io/](https://gohugo.io/ "Hugo")) build. The design is derived on a theme by ThemeFisher called \[Persian\]([https://themes.gohugo.io/themes/persian-hugo](https://themes.gohugo.io/themes/persian-hugo "Persian")). I changed a few things and rebranded it as Ponder. 
+This is an experimental [HUGO](https://gohugo.io/ "Hugo") build. The design is derived on a theme by ThemeFisher called [Persian](https://themes.gohugo.io/themes/persian-hugo "Persian"). I appreciated the typography, changed a few things and rebranded it as Ponder. The dominant typeface is Playfair.
 
-Maintenance happens through a headless CMS by <a href="[https://forestry.io/](https://forestry.io/ "https://forestry.io/")">forestry.io.</a> All of the content pages are Markdown files and the code is hosted in my <a href="[https://github.com/tripdog/](https://github.com/tripdog/ "https://github.com/tripdog/")">https://github.com/tripdog/</a> repo. When commits are made, a rebuild happens and the blog is refreshed via GitHub.
+### CMS
 
-All images are from Unsplash and the whole thing is deployed on <a href="[https://www.netlify.com/](https://www.netlify.com/ "https://www.netlify.com/")">Netlify.</a>
+Maintenance happens through a headless CMS by [forestry.io](https://forestry.io "Forestry CMS"). All of the content pages are Markdown files and the code is hosted in my [GitHub](https://github.com/tripdog/ "GitHub") repo. When commits are made, a rebuild takes place and the blog is refreshed via the hosted GitHub repo.
+
+### HOSTING
+
+The whole thing is deployed via [Netlify](https://www.netlify.com/ "Netlify").
+
+### IMAGES
+
+All images are from [Unsplash](https://unsplash.com "Unsplash") 
