@@ -23,3 +23,7 @@ The whole thing is deployed via [Netlify](https://www.netlify.com/ "Netlify").
 ### IMAGES
 
 All images are from [Unsplash](https://unsplash.com "Unsplash"). They are saved right into the GH repo but could just as easily be placed on Cloudinary, S3, Spaces or what have you.
+
+### IMPRESSIONS
+
+This CMS feels so much more responsive than WordPress, even with the build lag on the front-end. It doesn't have nearly as many bells and whistles, but there is a lot of elegance in simplicity. I could build something substantial with this I think.
