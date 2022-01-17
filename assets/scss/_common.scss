@@ -35,7 +35,7 @@ a {
 a,
 a:hover,
 a:focus {
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 a,
@@ -50,7 +50,7 @@ select {
 }
 
 a:hover {
-  color: $primary-color;
+  color: $links;
 }
 
 .slick-slide {
