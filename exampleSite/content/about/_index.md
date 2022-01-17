@@ -1,38 +1,11 @@
 ---
-title: I'm a Freelance Interactive Art Director Based In France. Focusing Accross
-  Branding And Identity
+title: Look ma, no WordPress and other anecdotes about this build.
 image: images/img_0606.JPG
 description: This is meta description.
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi, posuere ultrices tempus. Feugiat consequat suspendisse laoreet vitae enim adipiscing cursus. Duis nunc vitae tincidunt sed nibh id. Egestas erat consequat, ornare etiam donec faucibus. Lorem ut enim nunc, senectus adipiscing sed. Lobortis commodo aliquet pulvinar molestie faucibus diam. Semper porttitor justo, et dictum.
+This is an experimental <a href="[https://gohugo.io/](https://gohugo.io/ "https://gohugo.io/")">HUGO</a> build. The design is derived on a theme by ThemeFisher called <a href="[https://themes.gohugo.io/themes/persian-hugo/](https://themes.gohugo.io/themes/persian-hugo/ "https://themes.gohugo.io/themes/persian-hugo/")">Persian.</a> I changed a few things and rebranded it as Ponder. 
 
-<br>
-<br>
+Maintenance happens through a headless CMS by <a href="[https://forestry.io/](https://forestry.io/ "https://forestry.io/")">forestry.io.</a> All of the content pages are Markdown files and the code is hosted in my GitHub repo. When commits are made, a rebuild happens and the blog is refreshed via GitHub.
 
-## My Education
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi Massa cras odio ante cursus.
-
-* Et ipsum euismod et aenean duis.
-* Mate ipsum euismod nulla et diam.
-* Rio euismod nulla et aenean diam konta.
-
-<br>
-<br>
-
-## My Hobbies
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi Massa cras odio ante cursus.
-
-* Et ipsum euismod et aenean duis.
-* Mate ipsum euismod nulla et diam.
-* Rio euismod nulla et aenean diam konta.
-
-<br>
-<br>
-
-## My Experiences
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi Massa cras odio ante cursus.
-
-1. Et ipsum euismod et aenean duis.
-2. Mate ipsum euismod nulla et diam.
-3. Rio euismod nulla et aenean diam konta.
+All images are from Unsplash and the whole thing is deployed on Netlify.
