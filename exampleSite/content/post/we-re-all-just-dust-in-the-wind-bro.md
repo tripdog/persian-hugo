@@ -3,7 +3,7 @@ author = "Tom Phillips"
 categories = ["Life", ""]
 date = 2022-01-15T08:00:00Z
 description = "We're all going to the same place"
-image = "/images/dust-wind-dude.jpg"
+image = "/images/j-tree-rs.jpg"
 tags = []
 title = "We're all just dust in the wind bro."
 
