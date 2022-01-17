@@ -10,7 +10,7 @@ This is an experimental [HUGO](https://gohugo.io/ "Hugo") build. The design is d
 
 #### FORM HANDLING
 
-I am using Ajax in conjuction with the Netlify `data-netlify="true"` attribute. You could use something like FormSpree, but their free tier allows for only 1/2 the submissions that Netlify allows and that's 50 vs 100 submissions per month.
+I am using Ajax in conjunction with the Netlify `data-netlify="true"` attribute. You could use something like FormSpree, but their free tier allows for only 1/2 the submissions that Netlify allows and that's 50 vs 100 submissions per month.
 
 ### CMS
 
