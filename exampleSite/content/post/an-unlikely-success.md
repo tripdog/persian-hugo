@@ -1,10 +1,10 @@
 +++
 author = "Tom Phillips"
-categories = []
+categories = ["Sad Things"]
 date = 2022-01-14T08:00:00Z
 description = "An unlikely success"
 image = "/images/kindness-rs.jpg"
-tags = []
+tags = ["Sad Things"]
 title = "An Unlikely Success."
 
 +++
