@@ -8,7 +8,7 @@ description: This is an experimental Hugo build.
 
 This is an experimental [HUGO](https://gohugo.io/ "Hugo") build. The design is derived on a theme by ThemeFisher called [Persian](https://themes.gohugo.io/themes/persian-hugo "Persian"). I appreciated the typography, changed a few things and rebranded it as Ponder. The dominant typeface is Playfair.
 
-#### FORM HANDLING
+### FORM HANDLING
 
 I am using Ajax in conjunction with the Netlify `data-netlify="true"` attribute. You could use something like FormSpree, but their free tier allows for only 1/2 the submissions that Netlify allows and that's 50 vs 100 submissions per month.
 
