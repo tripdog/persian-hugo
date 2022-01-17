@@ -4,7 +4,7 @@ image: images/img_0606.JPG
 email: eflips@yahoo.com
 social:
 - icon: ti-twitter-alt
-  link: "#"
+  link: https://twitter.com/tripdog
 - icon: ti-github
   link: "#"
 menu:
