@@ -1,19 +1,16 @@
 ---
 title: Tom
-image: ''
-email: tom.d.flips@gmail.com
+image: images/img_0606.JPG
+email: eflips@yahoo.com
 social:
-- icon: ti-facebook
-  link: "#"
 - icon: ti-twitter-alt
-  link: "#"
+  link: https://twitter.com/tripdog
 - icon: ti-github
-  link: "#"
+  link: https://github.com/tripdog
 menu:
   main:
     name: Category
     weight: 3
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
-Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.
+Tom Phillips is a self-described GenX Elder Statesman, Dad, Jeeper, Hiker, Creative Pro, Freelance designer/Frontend Developer, Buddhist and imperfect Human.
