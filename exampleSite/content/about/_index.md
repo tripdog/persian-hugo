@@ -1,7 +1,7 @@
 ---
 title: Look ma, no WordPress and other anecdotes about this build.
 image: images/img_0606.JPG
-description: This is meta description.
+description: This is an experimental Hugo build.
 
 ---
 This is an experimental <a href="[https://gohugo.io/](https://gohugo.io/ "https://gohugo.io/")">HUGO</a> build. The design is derived on a theme by ThemeFisher called <a href="[https://themes.gohugo.io/themes/persian-hugo/](https://themes.gohugo.io/themes/persian-hugo/ "https://themes.gohugo.io/themes/persian-hugo/")">Persian.</a> I changed a few things and rebranded it as Ponder. 
