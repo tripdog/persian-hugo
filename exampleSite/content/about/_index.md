@@ -22,4 +22,4 @@ The whole thing is deployed via [Netlify](https://www.netlify.com/ "Netlify").
 
 ### IMAGES
 
-All images are from [Unsplash](https://unsplash.com "Unsplash"). They are saved right into the GH repo but could just as easily be placed on Cloudinary, S3, Spaces or what have you.
+All images are from [Unsplash](https://unsplash.com "Unsplash"). They are saved right into the GH repo but could just as easily be placed on Cloudinary, S3, Spaces or what have you. 
