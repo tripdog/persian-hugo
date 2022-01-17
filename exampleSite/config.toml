@@ -1,4 +1,4 @@
-baseURL = "https://www.example.com"
+baseURL = "https://cranky-williams-5827e9.netlify.app"
 disqusShortname = ""
 googleAnalytics = ""
 languageCode = "en-us"
@@ -33,7 +33,7 @@ home = ["HTML", "RSS", "json"]
 [params]
 author = "Themefisher"
 contact_form_action = "#"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Atomic"
 description = "A Blog For Thoughts"
 logo = "images/ponder-logo3.png"
 search = true
