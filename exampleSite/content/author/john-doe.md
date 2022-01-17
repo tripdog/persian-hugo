@@ -6,7 +6,7 @@ social:
 - icon: ti-twitter-alt
   link: https://twitter.com/tripdog
 - icon: ti-github
-  link: "#"
+  link: https://github.com/tripdog
 menu:
   main:
     name: Category
