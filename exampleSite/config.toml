@@ -9,6 +9,10 @@ title = "Ponder"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
+name = "Category"
+url = "https://www.atomicpx.com"
+weight = 3
+[[menu.main]]
 name = "Privacy Policy"
 url = "privacy-policy"
 weight = 5
