@@ -10,7 +10,7 @@ This is an experimental [HUGO](https://gohugo.io/ "Hugo") build. The design is d
 
 ### CMS
 
-Maintenance happens through a headless CMS by [forestry.io](https://forestry.io "Forestry CMS"). All of the content pages are Markdown files and the code is hosted in my [GitHub](https://github.com/tripdog/ "GitHub") repo. When commits are made, a rebuild takes place and the blog is refreshed via the hosted GitHub repo.
+Maintenance happens through a headless CMS by [forestry.io](https://forestry.io "Forestry CMS"). All of the content pages are Markdown files and the code is hosted in my [GitHub](https://github.com/tripdog/ "GitHub") repo. When commits are made, a rebuild takes place and the blog is refreshed via the hosted GitHub repo. Becuase the whole enchilada is rebuilt everytime there's a new commit, there is a small lag between making the change and seeing them on the front-end.
 
 ### HOSTING
 
