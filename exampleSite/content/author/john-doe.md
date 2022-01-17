@@ -1,6 +1,6 @@
 ---
 title: Tom
-image: "/images/0606.JPG"
+image: images/img_0606.JPG
 email: tom.d.flips@gmail.com
 social:
 - icon: ti-twitter-alt
