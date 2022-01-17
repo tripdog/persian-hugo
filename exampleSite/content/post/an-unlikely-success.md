@@ -3,7 +3,7 @@ author = "Tom Phillips"
 categories = []
 date = 2022-01-14T08:00:00Z
 description = "An unlikely success"
-image = "/images/matt-collamer-8ug90aypdw4-unsplash.jpg"
+image = "/images/kindness-rs.jpg"
 tags = []
 title = "An Unlikely Success."
 
@@ -27,4 +27,4 @@ looking peaceful, instead,
 so that no one would ever think  
 I have no place to lay my head.
 
-Translator's note: I believe the last line may be a reference to a statement made by Jesus Christ in the gospels: that foxes have their dens, but he had no place to lay his head. Rilke may also have had in mind Jesus saying that what someone does "to the least of these" they would also be doing to him. 
+Translator's note: I believe the last line may be a reference to a statement made by Jesus Christ in the gospels: that foxes have their dens, but he had no place to lay his head. Rilke may also have had in mind Jesus saying that what someone does "to the least of these" they would also be doing to him.
