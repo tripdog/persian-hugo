@@ -4,7 +4,7 @@ categories = ["Giving", "Sad Things"]
 date = 2022-05-15T08:00:00Z
 description = "Giving and facing humanity"
 image = "/images/palbarling.jpg"
-tags = []
+tags = ["Giving", "Sad Things", ""]
 title = "Facing Humanity."
 
 +++
