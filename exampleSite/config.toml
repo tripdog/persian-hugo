@@ -9,9 +9,17 @@ title = "Ponder"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
+name = "Category"
+url = "/tags/sad-things/"
+weight = 3
+[[menu.main]]
+name = "Portfolio"
+url = "https://www.atomicpx.com"
+weight = 5
+[[menu.main]]
 name = "Privacy Policy"
 url = "privacy-policy"
-weight = 5
+weight = 6
 [[menu.main]]
 name = "Contact"
 url = "contact"
