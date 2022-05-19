@@ -8,7 +8,7 @@ tags = []
 title = "Facing Humanity."
 
 +++
-I could have been one of them. If things had gone a little differently for me, if I'd made another terrible decision. I could've been among them. Hungry, and unbathed with an uncertain future. No doubt, I could've been one of the one's who were not only hungry, but doped out, half crazy froom excessive drinking and hard street drugs that speed the human clock by a factor of two.
+I could have been one of them. If things had gone a little differently for me, if I'd made another terrible decision. I could've been among them. Hungry, and unbathed with an uncertain future. No doubt, I could've been one of the one's who were not only hungry, but doped-out, half crazy from drinking to excess and hard street drugs that speed the human clock by a factor of two.
 
 But today, I was on the opposite side of the table handing out bananas to anybody who would take one from me. At first I felt happy to help and I was. But knowing that my privelege was one of the main reasons I wasn't among them made me feel filthy, like I'd stolen something.
 
