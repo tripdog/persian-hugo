@@ -12,7 +12,7 @@ I could have been one of them. If things had gone a little differently for me, i
 
 But today, I was on the opposite side of the table handing out bananas to anybody who would take one from me. At first, I felt happy to help. I truly was, but knowing that my privelege was one of the main reasons I wasn't among them made me feel filthy, like I'd stolen something.
 
-Then I saw the children. That hit me like an aluminum bat across the back. It made me feel so sad to see yet another wave of the cycle beginning again. And yet, they were all happy as they could be, completely unaware of what was taking place around them. It was unfair, and so wrong. I felt useless standing there with a banana in my hand, staring off into space as if I had something to be sad about.
+Then I saw the children. That hit me like an aluminum bat across the back. It made me feel sad to see yet another wave of the cycle beginning again. And yet, they were all happy as they could be, completely unaware of what was taking place around them. It was unfair, and so wrong. I felt useless standing there with a banana in my hand, staring off into space as if I had something to be sad about.
 
 Don't get me wrong. I was happy to be there, but when I looked into their faces, it's as if I was looking into a mirror that stretched back in time to when I had given up on life and cared little about whether I lived or died. I saw my humanity, my loss of hope. It made me sad, yet I'd do it again.
 
